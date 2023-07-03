@@ -1,10 +1,7 @@
 <h1 align="center">Hi, my name is Güray</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A passionate Computer Scientist</h3>
 
-- I’m passionate about **Database Management Systems and Software development**
-
-- I’m currently continuing to develop my skills on **Python, R**
-
+- I’m passionate about **Web development and Software development**
 - How to reach me **hatipguray@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
